@@ -8,7 +8,7 @@ Playing a YouTube video in app.
 
 Navigation to [YouTube iOS Player](https://github.com/youtube/youtube-ios-player-helper) and install the YouTube player via CocaaPods.
 
-## Configure the Player with a Video Id 
+## Configure the Player with the YouTube video id
 
 ```swift 
 youTubePlayerView.load(withVideoId: "X1rJvSF3l6k") // provide the YouTube video id
